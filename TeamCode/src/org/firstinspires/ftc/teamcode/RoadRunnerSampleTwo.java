@@ -13,7 +13,7 @@ import org.firstinspires.ftc.teamcode.simple_rr_example.MecBot;
 
 import java.util.List;
 
-@Autonomous(name = "RoadRunnerSampleTwo1", group = "road-runner")
+@Autonomous(name = "RoadRunnerSampleTwo", group = "road-runner")
 public class RoadRunnerSampleTwo extends LinearOpMode {
 
 //    MecBot bot;
